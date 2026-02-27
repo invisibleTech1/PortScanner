@@ -1,4 +1,17 @@
 # PortScanner
 
-## Basic TCP scanner
-### This's scanner whish was created with python using built-in ``socket`` library. It takes a start and end ports to scan the given IP addreess. If IP address is not available to scan it throws an error and same with ports, if user doesn't enter the integer it throws value error and exist from system.
+## ⚠️ Disclaimer ⚠️
+### This project was created for educatiobnal purposes only.
+
+## Functionality
+### 1) Takes start & end port
+### 2) Checks IP address availability
+### 3) Handles errors
+
+## Instalation
+### ```git clone https://github.com/invisibleTech1/PortScanner```
+### ```sudo apt install python3```
+### ```cd port-scan```
+### ```python3 main.py```
+
+
