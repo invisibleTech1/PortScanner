@@ -11,7 +11,7 @@
 ## Instalation
 ### ```git clone https://github.com/invisibleTech1/PortScanner```
 ### ```sudo apt install python3```
-### ```cd port-scan```
+### ```cd PortScanner```
 ### ```python3 main.py```
 
 
